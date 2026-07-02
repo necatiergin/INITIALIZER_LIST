@@ -1,4 +1,3 @@
-#include <iostream>
 #include <initializer_list>
 
 std::initializer_list<int> func()
