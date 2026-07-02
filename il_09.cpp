@@ -14,6 +14,7 @@ public:
 	{
 		std::cout << "move ctor\n";
 	}
+	//...
 };
 
 int main()
